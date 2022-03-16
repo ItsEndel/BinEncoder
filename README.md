@@ -1,1 +1,1 @@
-# BinEncoder
+Just a text encoder.
